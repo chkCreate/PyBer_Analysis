@@ -13,13 +13,13 @@ See the summary table for total rides, total drivers, total fares, average fare 
 Another interesting observation is the inequity in the average fare per rides and the average fare per drive per city types. Rural cities, for example, cost the most for the rides, and the average fare per driver exceeds the average fare per ride. The lower number of available drivers increased the equity of the average fare per driver. Riders in the rural cities were paying more per ride compared to the riders in urban cities. Urban cities, on the other hand, is the opposite.
 
 <p align="center">
-  <img width="400" height="1200" src= "PyBer_fare_summary.png">
+  <img width="400" height="1200" src= "https://github.com/chkCreate/PyBer_Analysis/blob/42a7abd81b37725735d720b82cca0c51f58cdb9f/Analysis/pyber_summary.PNG" >
 </p>
 
 First, see the Total fare summary line graph per city type over the period January 2019 to April 2019. Rural cities ranked the lowest for total fare;and the surburban cities ranked second highest, and the urban cities ranked the highest over the period. None of the data series cross over one another. See the multi-line graphs for review as well.
   
 <p align="center">
-  <img width="1200" height="300" src= "x"  title "PyBer_fare_summary.png">
+  <img width="1200" height="300" src= "https://github.com/chkCreate/PyBer_Analysis/blob/42a7abd81b37725735d720b82cca0c51f58cdb9f/Analysis/PyBer_fare_summary.png" title "PyBer_fare_summary.png">
 </p>
   
   
