@@ -31,5 +31,3 @@ There are three findings from this analysis. First, the urban cities ranked the 
   
 (1) I referenced the image centering script from "https://stackoverflow.com/questions/12090472/github-readme-md-center-image".
   
-(2) I worked on this with module challenge with a teammate @swlim314.
-
